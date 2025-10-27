@@ -34,4 +34,4 @@ BibTeX Entry:
 ```
 
 # License
-This code is released under the MIT License. See the file [```LICENSE```](https://github.com/marandmath/UQ_tutorial_code/blob/main/LICENSE) for copying permission.
+This code is released under the MIT License. See the file [```LICENSE```](https://github.com/marandmath/ACI_code/blob/main/LICENSE) for copying permission.
