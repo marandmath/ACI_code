@@ -4,7 +4,7 @@ This repository contains the MATLAB code for the paper "Assimilative Causal Infe
 The MATLAB codebase was written and tested on version R2024b.
 
 # Script Files
-The following MATLAB m-file (script) files are included in this repository (the numbered sections correspond to the ones found in the Supplementary Information of the paper, which is available in the arXiv version of this work):
+The following MATLAB m-file (script) files are included in this repository (the numbered sections correspond to the ones found in the [arXiv](https://arxiv.org/abs/2505.14825) version of this work):
 * dyad_interaction_model.m (Sections 3.1 and SI.4.1 - "A Nonlinear Dyad Model with Intermittent Extreme Events")
 * noisy_predator_prey_model.m (Section SI.4.2 - "A Noisy Predator-Prey Model")
 * El Niño-Southern Oscillation (ENSO) Case Study (Sections 3.2 and SI.4.3 - "A Stochastic Model Capturing the El Niño-Southern Oscillation (ENSO) Diversity"):
