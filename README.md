@@ -25,7 +25,7 @@ The user can use real observational data for the ENSO-related script files inste
 
 # Citing This Work
 
-[Journal] [arXiv]
+[Journal] [[arXiv](https://arxiv.org/abs/2505.14825)]
 
 BibTeX Entry:
 ```
