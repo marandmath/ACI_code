@@ -5,16 +5,16 @@ The MATLAB codebase was written and tested on version R2024b.
 
 # Script Files
 The following MATLAB m-file (script) files are included in this repository (the numbered sections correspond to the ones found in the [arXiv](https://arxiv.org/abs/2505.14825) version of this work):
-* dyad_interaction_model.m (Sections 3.1 and SI.4.1 - "A Nonlinear Dyad Model with Intermittent Extreme Events")
-* noisy_predator_prey_model.m (Section SI.4.2 - "A Noisy Predator-Prey Model")
-* El Niño-Southern Oscillation (ENSO) Case Study (Sections 3.2 and SI.4.3 - "A Stochastic Model Capturing the El Niño-Southern Oscillation (ENSO) Diversity"):
-  + ENSO_model_cond_ACI_u_h_W_tau_unobs.m
-  + ENSO_model_cond_ACI_u_unobs.m
-  + ENSO_model_cond_ACI_h_W_unobs.m
-  + ENSO_model_cond_ACI_T_C_unobs.m
-  + ENSO_model_cond_ACI_tau_unobs.m
+* Sections 3.1 and SI.4.1 — "A Nonlinear Dyad Model with Intermittent Extreme Events": [dyad_interaction_model.m](https://github.com/marandmath/ACI_code/blob/main/dyad_interaction_model.m)
+* Section SI.4.2 — "A Noisy Predator-Prey Model": [noisy_predator_prey_model.m](https://github.com/marandmath/ACI_code/blob/main/noisy_predator_prey_model.m)
+* Sections 3.2 and SI.4.3 — "A Stochastic Model Capturing the El Niño-Southern Oscillation (ENSO) Diversity" (El Niño-Southern Oscillation Case Study):
+  + [ENSO_model_cond_ACI_u_h_W_tau_unobs.m](https://github.com/marandmath/ACI_code/blob/main/ENSO_model_cond_ACI_u_h_W_tau_unobs.m)
+  + [ENSO_model_cond_ACI_u_unobs.m](https://github.com/marandmath/ACI_code/blob/main/ENSO_model_cond_ACI_u_unobs.m)
+  + [ENSO_model_cond_ACI_h_W_unobs.m](https://github.com/marandmath/ACI_code/blob/main/ENSO_model_cond_ACI_h_W_unobs.m)
+  + [ENSO_model_cond_ACI_T_C_unobs.m](https://github.com/marandmath/ACI_code/blob/main/ENSO_model_cond_ACI_T_C_unobs.m)
+  + [ENSO_model_cond_ACI_tau_unobs.m](https://github.com/marandmath/ACI_code/blob/main/ENSO_model_cond_ACI_tau_unobs.m)
 * Auxiliary files:
-  + progress_bar.m
+  + [progress_bar.m](https://github.com/marandmath/ACI_code/blob/main/progress_bar.m)
   + [simps.m](https://www.mathworks.com/matlabcentral/fileexchange/25754-simpson-s-rule-for-numerical-integration)
   + [legendUnq.m](https://www.mathworks.com/matlabcentral/fileexchange/67646-legendunq)
 
