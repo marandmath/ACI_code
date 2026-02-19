@@ -26,11 +26,22 @@ The user can use real observational data for the ENSO-related script files inste
 
 # Citing This Work
 
-[Journal] [[arXiv](https://arxiv.org/abs/2505.14825)]
+[[Nature Communications](https://doi.org/10.1038/s41467-026-68568-0)] [[arXiv](https://arxiv.org/abs/2505.14825)]
 
 BibTeX Entry:
 ```
-@article{
+@article{andreou2026assimilative,
+  title = "{Assimilative causal inference}",
+  author = "Andreou, Marios and Chen, Nan and Bollt, Erik",
+  journal = "Nature Communications",
+  ISSN = "2041-1723",
+  publisher = "Nature Publishing Group",
+  volume = "17",
+  number = "1854",
+  year = "2026",
+  month = jan,
+  DOI = "10.1038/s41467-026-68568-0",
+  URL = "https://rdcu.be/e4NGF"
 }
 ```
 
