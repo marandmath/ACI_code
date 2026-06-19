@@ -39,9 +39,9 @@ BibTeX Entry:
   volume = "17",
   number = "1854",
   year = "2026",
-  month = jan,
+  month = "January",
   DOI = "10.1038/s41467-026-68568-0",
-  URL = "https://rdcu.be/e4NGF"
+  URL = "https://www.nature.com/articles/s41467-026-68568-0"
 }
 ```
 
